@@ -1,7 +1,7 @@
 # Link
 [comparing-service-meshes-linkerd-vs-istio](https://glasnostic.com/blog/comparing-service-meshes-linkerd-vs-istio)
 
-#Istio
+# Istio
 
 What is Istio?
 
